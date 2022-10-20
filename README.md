@@ -1,4 +1,4 @@
-# Olá! Sou o Vinícius Rezende e este é o meu perfil no Github!
+# Olá! Sou o Vinícius Rezende e este é o meu perfil no GitHub!
 
 ## Seja muito bem vindo (a)! É um prazer ter você aqui!
 
